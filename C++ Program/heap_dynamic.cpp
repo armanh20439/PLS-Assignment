@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Heap Dynamic: Size and contents can grow or shrink during runtime
+// a region of memory that allows for flexible and dynamic allocation and deallocation of memory blocks during program execution
 int main() {
     vector<int> arr;
     int n, ele;
